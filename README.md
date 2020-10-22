@@ -1,7 +1,6 @@
 # Starter-Template
 A template built to help you get started on projects fast and efficiently. 
 
-
 ## Project Info
 
 Project Intro
