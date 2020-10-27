@@ -35,16 +35,6 @@ Project Credits
 
 Thanks! 
 
-## License
-
-Licensed under the MIT license.
-
-<!-- https://https://michaelwitt.github.io/LICENSELOCATION -->
-
-## Contributor Covenant Code of Conduct
-
-https://www.contributor-covenant.org/version/2/0/code_of_conduct/
-
 ## Thanks For Visiting!
 
 Come back soon :)
